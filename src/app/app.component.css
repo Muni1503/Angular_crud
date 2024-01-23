@@ -1,0 +1,22 @@
+nav a{
+    padding: 30px;
+    margin-top: 20px;
+    color: black;
+    text-decoration: none;
+    font-family: sans-serif;
+    background: linear-gradient(#141e30, #2a6c56);
+    margin-left: 3%;
+}
+
+nav a.active {
+    background: white; 
+    color: #aa1f1f; 
+  }
+
+nav {
+    
+     display: flex; 
+     justify-content: center
+       
+    
+}

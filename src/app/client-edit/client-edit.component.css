@@ -1,0 +1,47 @@
+
+
+.edit-client{
+        width: 400px;
+        padding: 40px;
+        margin-left: 35%;
+        margin-bottom: 5%;
+        margin-top: 5%;
+        background: rgba(0, 0, 0, 0.5);
+        box-sizing: border-box;
+        box-shadow: 0 15px 25px rgba(0, 0, 0, 0.6); 
+        
+    }
+
+    .edit-client h2 {
+        margin: 0 0 30px;
+        padding: 0;
+        color: #fff;
+        text-align: center;
+    }   
+
+    .edit-client .form-group input,.edit-client .form-group #clientStatus{
+        width: 100%;
+        padding: 10px 0;
+        font-size: 16px;
+        color: #fff;
+        margin-bottom: 30px;
+        outline: none;
+        background: transparent;
+    }
+
+    button{
+        width: 100%;
+        padding: 10px 0;
+        font-size: 16px;
+        color: #121010;
+    }
+    
+   
+      
+        
+        
+        
+        
+        
+    }
+
